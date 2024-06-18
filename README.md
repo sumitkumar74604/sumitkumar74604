@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Madhup Pandey</h1>
+<h1 align="center">Hi 👋, I'm S_Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmadhup&label=Profile%20views&color=0e75b6&style=flat" alt="devmadhup" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<img src="https://github.com/DevMadhup/DevMadhup/blob/main/blogbranding.png" alt="BlogBranding" />
+<img src="https://github.com///blob/main/blogbranding.png" alt="BlogBranding" />
  
 <br>
 <br>
@@ -13,11 +13,9 @@
 
 - 🔭 I’m currently working on **AWS and Azure Cloud**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
-
 - 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
-- 📫 How to reach me **8007930568pandey@gmail.com**
+- 📫 How to reach me **.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
