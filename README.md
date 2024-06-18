@@ -15,12 +15,12 @@
 
 - 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
-- 📫 How to reach me **.com**
+- 📫 How to reach me **kumar.sumit74604@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="#" alt="madhuppandey29" height="65" width="75" /></a>
-<a href="https://linkedin.com/in/https://_/" target="blank"><img align="center" src="https://github.com/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/_/" height="55" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="#" alt="#" height="65" width="75" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/kumar-sumit-4a77a32a9/" target="blank"><img align="center" src="https://github.com/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/_/" height="55" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com//blob/main/insta.gif" alt="iits_madhup" height="75" width="80" /></a>
 </p>
 
