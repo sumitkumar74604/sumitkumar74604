@@ -1,70 +1,43 @@
-# Sumit Kumar 
+<h1 align="center">Hi 👋, I'm Madhup Pandey</h1>
+<h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
 
-## About Me
-I am a dedicated and motivated DevOps Engineer with over 1 year of experience in IT. I thrive in high-tech environments and enjoy collaborating with talented individuals to optimize processes and infrastructure.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmadhup&label=Profile%20views&color=0e75b6&style=flat" alt="devmadhup" /> </p>
 
-- **Location:** Indore, M.P, India
-- **Email:** kumar.sumit74604@gmail.com
-- **Email:** kumar.sumit74604@hotmail.com
-- **Phone:** +91-0000 0000 00
-- **LinkedIn:** [Kumar sumit](https://www.linkedin.com/in/kumar-sumit-4a77a32a9)
+<img src="https://github.com/DevMadhup/DevMadhup/blob/main/blogbranding.png" alt="BlogBranding" />
+ 
+<br>
+<br>
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## Experience
-### DevOps Engineer
-**Nenosystems Consulting Service Pvt Ltd.**
-- *May 2024 - Present*
-- Indore, M.P, India
-- Responsible for deploying, managing, and monitoring infrastructure, optimizing development pipelines using AWS, Docker, Kubernetes, Jenkins, and more.
 
-### DevOps Engineer Trainee
-**EmbeddedVisions Technologies**
-- *April 2023 - March 2024*
-- Indore, M.P, India
-- Focused on CI/CD pipelines, infrastructure automation, and cloud technologies to develop skills in DevOps practices.
+- 🔭 I’m currently working on **AWS and Azure Cloud**
 
----
+- 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
 
-## Skills
-- HTML | CSS | JavaScript
-- C | C++ | Python
-- Django Framework
-- MySQL | RDS
-- AWS | Microsoft Azure | Docker | Kubernetes | Jenkins | Git | Chef
+- 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
----
+- 📫 How to reach me **8007930568pandey@gmail.com**
 
-## Projects
-### User Management System
-A web-based application for streamlined administration of user accounts, deployed using Docker and Kubernetes on AWS.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="#" alt="madhuppandey29" height="65" width="75" /></a>
+<a href="https://linkedin.com/in/https://_/" target="blank"><img align="center" src="https://github.com/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/_/" height="55" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com//blob/main/insta.gif" alt="iits_madhup" height="75" width="80" /></a>
+</p>
 
-### Hospital Management
-Comprehensive solution to automate administrative and clinical operations in healthcare facilities, deployed using AWS EC2 and EKS.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com//blob/main/aws.gif" alt="aws" width="60" height="55"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="55"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com//blob/main/whale-docker.gif" alt="docker" width="55" height="55"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com//blob/main/git.gif" alt="git" width="80" height="55"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com//blob/main/jenkins.gif" alt="jenkins" width="75" height="55"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com//blob/main/kuber.gif" alt="kubernetes" width="55" height="55"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
+<a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="55" />
+  </a></p>
 
-### Reddit Clone
-Social media platform replica deployed with Kubernetes for high availability and scalability using AWS EKS.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
 
-## Education
-- **Bachelor of Computer Application**
-  - DAVV University, Indore
-  - 2019 - 2023
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-- **Certifications**
-  - AWS - Solution Architect Associate
-  - Python Programming Language
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
 
----
-
-## Contact
-- **Address:** PPC 201, Dream City, Talawali Chanda, Indore, M.P - 452012, India
-- **Email:** kumar.sumit74604@gmail.com
-- **Phone:** +91-0000 0000 00
-- **LinkedIn:** [S. Kumar](https://www.linkedin.com/in/s-kumar-7773a3264)
-
----
-
-## Footer
-&copy; 2024 Sumit Kumar. All rights reserved.
