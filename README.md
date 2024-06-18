@@ -60,7 +60,7 @@ Social media platform replica deployed with Kubernetes for high availability and
 ## Contact
 - **Address:** PPC 201, Dream City, Talawali Chanda, Indore, M.P - 452012, India
 - **Email:** kumar.sumit74604@gmail.com
-- **Phone:** +91-74630 61636
+- **Phone:** +91-0000 0000 00
 - **LinkedIn:** [S. Kumar](https://www.linkedin.com/in/s-kumar-7773a3264)
 
 ---
