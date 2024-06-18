@@ -6,7 +6,7 @@ I am a dedicated and motivated DevOps Engineer with over 1 year of experience in
 - **Location:** Indore, M.P, India
 - **Email:** kumar.sumit74604@gmail.com
 - **Phone:** +91-0000 0000 00
-- **LinkedIn:** [S. Kumar](linkedin.com/in/kumar-sumit-4a77a32a9)
+- **LinkedIn:** [Kumar sumit](https://www.linkedin.com/in/kumar-sumit-4a77a32a9)
 
 ---
 
