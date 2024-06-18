@@ -1,4 +1,4 @@
-# Sumit Kumar - Portfolio
+# Sumit Kumar 
 
 ## About Me
 I am a dedicated and motivated DevOps Engineer with over 1 year of experience in IT. I thrive in high-tech environments and enjoy collaborating with talented individuals to optimize processes and infrastructure.
